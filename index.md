@@ -14,8 +14,10 @@ In addition, I helped design, implement and test a contextual awareness framewor
 
 # Project
 
-...
+The title of my MSc project is "Monopoly with Bitcoin". I am creating a Monopoly clone where the Monopoly money is replaced by my own artificial cryptocurrency and users can explore the concepts of blockchain and cryptocurrencies. See [Monopoly](https://github.com/tiggerdine/monopoly).
+
+In the future, users will be able to find out more about how blockchain works (e.g. through a visualisation) and view blocks.
 
 # Machine Learning for Data Analysis
 
-...
+I predicted the prices of Airbnb properties in [Machine Learning](https://github.com/tiggerdine/machine-learning) and classified handwritten digits and IMDb reviews in [Deep Learning](https://github.com/tiggerdine/deep-learning) (group project).
